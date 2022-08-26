@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **what I find**
 
-- 👯 I’m looking to collaborate on [AgamiCloud](https://discord.gg/hdqc7nqqAF)
+- 👯 I collaborate on [AgamiCloud](https://discord.gg/hdqc7nqqAF)
 
 - 💬 Ask me about **Java, PHP**
 
