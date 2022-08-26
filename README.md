@@ -27,8 +27,8 @@
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/legabi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="legabi" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=legabi&show_icons=true&locale=en&layout=compact" alt="legabi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=legabi&show_icons=true&locale=en&layout=compact" alt="legabi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=legabi&show_icons=true&locale=en" alt="legabi" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=legabi&show_icons=true&locale=en" alt="legabi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=legabi&" alt="legabi" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=legabi&" alt="legabi" /></p>
