@@ -30,5 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=legabi&show_icons=true&locale=en" alt="legabi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=legabi&" alt="legabi" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legabi" alt="legabi" /></a> </p>
