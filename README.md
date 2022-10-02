@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=legabi&show_icons=true&locale=en" alt="legabi" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=legabi&" alt="legabi" /></p>
+
+![](https://github.com/legabi/legabi/blob/output/github-contribution-grid-snake.svg)
